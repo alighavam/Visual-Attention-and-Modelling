@@ -1,2 +1,5 @@
 # Visual-Attention-and-Modelling
-Modeling of human attention and sparse representation in simple cells.
+• Predicting where humans look using saliency maps built from image features.
+
+• Sparse representation of natural images that matches the receptive fields of primary
+cortex simple cells.
